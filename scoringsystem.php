@@ -1,7 +1,6 @@
 <?php
 function calculateScores($str) {
-	$arr = array();
-
+  $arr = array();
   array_push($arr, substr_count($str, "A"), substr_count($str, "B"), substr_count($str, "C"));
   
   return $arr;
