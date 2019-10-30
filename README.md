@@ -17,3 +17,5 @@ https://edabit.com/challenge/qz7diK2oHZdaki6CQ - alphabet index
 https://edabit.com/challenge/22SQvMBYSzxtb24Fc - whitespace after every lowercase and uppercase letter
 
 https://edabit.com/challenge/wgeckFBMwvyZNcLHJ - split by identical characters
+
+https://edabit.com/challenge/ecKpcyaJFb5R72vmk - number of odd and even digits
