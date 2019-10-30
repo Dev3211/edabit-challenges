@@ -15,3 +15,5 @@ https://edabit.com/challenge/qz7diK2oHZdaki6CQ - alphabet index
 //hard
 
 https://edabit.com/challenge/22SQvMBYSzxtb24Fc - whitespace after every lowercase and uppercase letter
+
+https://edabit.com/challenge/wgeckFBMwvyZNcLHJ - split by identical characters
