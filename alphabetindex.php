@@ -1,8 +1,8 @@
 <?php
 function alphabetIndex($str) {
   $empty = array();
-
-	$words = str_word_count($str, 1);
+  
+  $words = str_word_count($str, 1);
   $words = implode(" ", $words);
   $words = preg_replace( '/[\W]/', '', $words);
 
