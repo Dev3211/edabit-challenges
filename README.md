@@ -19,3 +19,5 @@ https://edabit.com/challenge/22SQvMBYSzxtb24Fc - whitespace after every lowercas
 https://edabit.com/challenge/wgeckFBMwvyZNcLHJ - split by identical characters
 
 https://edabit.com/challenge/ecKpcyaJFb5R72vmk - number of odd and even digits
+
+https://edabit.com/challenge/fdE4zpecHykDSNNHW - product of all numbers
