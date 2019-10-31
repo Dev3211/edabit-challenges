@@ -31,3 +31,5 @@ https://edabit.com/challenge/fdE4zpecHykDSNNHW - product of all numbers
 https://edabit.com/challenge/c68jXSBRRmhcmFSLm - All or nothing
 
 https://edabit.com/challenge/A8cTMAX34Gr9wzDkN - count letters and digits
+
+https://edabit.com/challenge/fa6kkmhpJ8iCJcenG - sort string by last char
