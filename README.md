@@ -16,6 +16,8 @@ https://edabit.com/challenge/YXX2raxZL7mhiB4B8 - atm pin code validation
 
 https://edabit.com/challenge/jSFxosk3vkhP2rH4b - count number of duplicate characters
 
+https://edabit.com/challenge/wwy3FF3LxYZ8PABbJ - reverse order of string
+
 //hard
 
 https://edabit.com/challenge/22SQvMBYSzxtb24Fc - whitespace after every lowercase and uppercase letter
