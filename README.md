@@ -27,3 +27,5 @@ https://edabit.com/challenge/ecKpcyaJFb5R72vmk - number of odd and even digits
 https://edabit.com/challenge/fdE4zpecHykDSNNHW - product of all numbers
 
 https://edabit.com/challenge/c68jXSBRRmhcmFSLm - All or nothing
+
+https://edabit.com/challenge/A8cTMAX34Gr9wzDkN - count letters and digits
