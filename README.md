@@ -14,6 +14,8 @@ https://edabit.com/challenge/qz7diK2oHZdaki6CQ - alphabet index
 
 https://edabit.com/challenge/YXX2raxZL7mhiB4B8 - atm pin code validation
 
+https://edabit.com/challenge/jSFxosk3vkhP2rH4b - count number of duplicate characters
+
 //hard
 
 https://edabit.com/challenge/22SQvMBYSzxtb24Fc - whitespace after every lowercase and uppercase letter
