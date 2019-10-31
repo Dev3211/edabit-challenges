@@ -23,3 +23,5 @@ https://edabit.com/challenge/wgeckFBMwvyZNcLHJ - split by identical characters
 https://edabit.com/challenge/ecKpcyaJFb5R72vmk - number of odd and even digits
 
 https://edabit.com/challenge/fdE4zpecHykDSNNHW - product of all numbers
+
+https://edabit.com/challenge/c68jXSBRRmhcmFSLm - All or nothing
