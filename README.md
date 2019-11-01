@@ -18,6 +18,8 @@ https://edabit.com/challenge/jSFxosk3vkhP2rH4b - count number of duplicate chara
 
 https://edabit.com/challenge/wwy3FF3LxYZ8PABbJ - reverse order of string
 
+https://edabit.com/challenge/zLBnS7sWFBz62pLcy - dice gambling
+
 //hard
 
 https://edabit.com/challenge/22SQvMBYSzxtb24Fc - whitespace after every lowercase and uppercase letter
