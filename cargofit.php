@@ -11,7 +11,7 @@ function willFit($holds, $cargo) {
       case "S": $count += 50; break;
     }
   }
-  $results = ($count > $arraysum || $count>= $arraysum) ? true : false;
+  $results = ($count > $arraysum || $count >= $arraysum) ? true : false;
   return $results;
 }
 
