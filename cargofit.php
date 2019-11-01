@@ -11,12 +11,8 @@ function willFit($holds, $cargo) {
       case "S": $count += 50; break;
     }
   }
-
-  if($count > $arraysum || $count >= $arraysum) {
-    return true;
-  } else {
-    return false;
-  }
+  $results = ($count > $arraysum || $count>= $arraysum) ? true : false;
+  return $results;
 }
 
 willFit(["M", "L", "L", "M"], [56, 62, 84, 90]); //true
