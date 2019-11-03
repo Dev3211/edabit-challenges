@@ -1,13 +1,15 @@
 <?php
 
-function tallestSkyscraper($arr) {
-	foreach($arr as $i => $element) {
-   foreach($element as $x => $test) {
-     if($arr[$i][$x] == 1){
-				return count($arr) - $i;
-			}
-    }
-  }
+function tallestSkyscraper($arr)
+{
+	$sumArray = array();
+
+	foreach ($arr as $k => $subArray) {
+		foreach ($subArray as $id => $value) {
+			array_key_exists($id, $sumArray) ? $sumArray[$id] += $value : $sumArray[$id] = $value;
+		}
+	}
+	return max($sumArray);
 }
 
 tallestSkyscraper([
